@@ -63,7 +63,10 @@ Discovered sales trends across different time periods
 
 Highlighted revenue contributing products
 
-📁 Project Structure
+
+## 📁 Project Structure
+
+```
 Retail_Sales_Analysis
 │
 ├── data
@@ -79,6 +82,10 @@ Retail_Sales_Analysis
 │   └── sales_dashboard.pbix
 │
 └── README.md
+```
+
+## 📌 Conclusion
+This project demonstrates how **Python, SQL, Excel, and Power BI** can be used together to analyze retail sales data and generate meaningful business insights.
 📌 Conclusion
 
 This project demonstrates how data analysis tools like Python, SQL, Excel, and Power BI can be used together to generate actionable insights from retail sales data and support business decision-making.
