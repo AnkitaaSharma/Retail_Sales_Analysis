@@ -1,12 +1,12 @@
 # Retail_Sales_Analysis
-📊 Retail Sales Performance Analysis
+## 📊 Retail Sales Performance Analysis
 
 This project analyzes retail sales data to identify key business insights and understand customer purchasing patterns.
 The analysis focuses on transforming raw data into meaningful insights using data cleaning, exploratory analysis, SQL queries, and interactive dashboards.
 
 The project demonstrates how data analytics can help businesses make data-driven decisions to improve sales performance and customer engagement.
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 Clean and preprocess raw retail sales data
 
@@ -18,7 +18,7 @@ Create interactive Power BI dashboards for visualization
 
 Identify key factors affecting sales performance
 
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 Tool	Purpose
 🐍 Python (Pandas, Matplotlib, Seaborn)	Data cleaning & EDA
 🗄️ SQL	Data querying and analysis
@@ -26,13 +26,13 @@ Tool	Purpose
 📈 Power BI	Interactive dashboard & visualization
 📂 Project Workflow
 
-1️⃣ Data Collection
+### 1️⃣ Data Collection
 Retail sales dataset used for analysis.
 
-2️⃣ Data Cleaning
+### 2️⃣ Data Cleaning
 Handled missing values, corrected data types, and removed inconsistencies.
 
-3️⃣ Exploratory Data Analysis (EDA)
+### 3️⃣ Exploratory Data Analysis (EDA)
 Analyzed patterns such as:
 
 Sales trends
@@ -41,7 +41,7 @@ Customer purchasing behavior
 
 Product performance
 
-4️⃣ SQL Analysis
+### 4️⃣ SQL Analysis
 Used SQL queries to extract business insights like:
 
 Top selling products
@@ -50,10 +50,10 @@ Sales by category
 
 Customer purchase trends
 
-5️⃣ Data Visualization
+### 5️⃣ Data Visualization
 Created Power BI dashboards to present insights visually.
 
-📊 Key Insights
+## 📊 Key Insights
 
 Identified top performing product categories
 
